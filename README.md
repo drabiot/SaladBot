@@ -6,10 +6,10 @@ La salade à 3 Bases:<br />
 - Mixte<br />
 <br />
 Ainsi que 5 condiments/garnitures au choix parmis une grande sélection de produit comme:<br />
-- Viande<br />
-- Fromages<br />
-- Fruits<br />
-- Légumes<br />
+* Viande<br />
+* Fromages<br />
+* Fruits<br />
+* Légumes<br />
 
 # 🇺🇸 Salad Bar Bot
 Discord bot project aimed at creating simple and fast salads..<br />
@@ -19,10 +19,10 @@ La salade à 3 Bases:<br />
 - Mixed of the two above<br />
 <br />
 As well as 5 condiments/toppings of your choice from a wide selection of ingredients such as:<br />
-- Meat<br />
-- Cheese<br />
-- Fruits<br />
-- Vegetabless<br />
+* Meat<br />
+* Cheese<br />
+* Fruits<br />
+* Vegetabless<br />
 
 # 👨‍💻 Author
 - [@drabiot](https://github.com/drabiot)
