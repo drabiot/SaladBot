@@ -7,7 +7,7 @@ La salade à 3 Bases:<br />
 <br />
 
 
-Ainsi que 5 condiments/garnitures au choix parmis une grande sélection de produit comme:<br /><br />
+Ainsi que 5 condiments/garnitures au choix parmis une grande sélection de produit comme:<br />
 * Viande<br />
 * Fromages<br />
 * Fruits<br />
@@ -22,7 +22,7 @@ La salade à 3 Bases:<br />
 <br />
 
 
-As well as 5 condiments/toppings of your choice from a wide selection of ingredients such as:<br /><br />
+As well as 5 condiments/toppings of your choice from a wide selection of ingredients such as:<br />
 * Meat<br />
 * Cheese<br />
 * Fruits<br />
