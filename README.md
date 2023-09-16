@@ -1,0 +1,2 @@
+# SaladBot
+Discord bot
