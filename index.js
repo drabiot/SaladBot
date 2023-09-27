@@ -5,12 +5,6 @@ const { token } = require('./config.json');
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
-client.once(Events.ClientReady, c => {
-	console.log(`Ready! Logged in as ${c.user.tag}`);
-});
-
-client.login(token);
-
 client.commands = new Collection();
 
 const commandsPath = path.join(__dirname, 'commands');
@@ -26,6 +20,10 @@ for (const file of commandFiles) {
 		console.log(`[WARNING] The command at ${filePath} is missing a required "data" or "execute" property.`);
 	}
 }
+
+client.once(Events.ClientReady, c => {
+	console.log(`Ready! Logged in as ${c.user.tag}`);
+});
 
 client.on(Events.InteractionCreate, async interaction => {
 	if (!interaction.isChatInputCommand()) return;
@@ -50,3 +48,5 @@ client.on(Events.InteractionCreate, async interaction => {
 		}
 	}
 });
+
+client.login(token);
