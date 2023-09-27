@@ -1,14 +1,18 @@
 {
-  "name": "salad_project",
+  "name": "salad_bot",
   "version": "1.0.0",
-  "description": "Automate the making of mixed salad",
-  "main": "main.js",
+  "description": "Create Salad via discord",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "drabiot",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.13.0"
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
   }
 }
